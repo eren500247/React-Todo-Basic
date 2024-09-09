@@ -1,0 +1,25 @@
+.todoform{
+    border-radius: 8px;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 2px 2px 4px;
+    text-align: center;
+}
+.moderninput{
+    height: 25px;
+    padding: 0 10px;
+    border: 2px solid antiquewhite;
+    border-radius: 4px;
+}
+.modernbtn{
+    margin-left: 10px;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 4px;
+    transition: all .5s;
+    background-color: antiquewhite;
+}
+.modernbtn:hover{
+    box-shadow: 2px 2px 4px rgb(0, 0, 0,0.5);
+    cursor: pointer;
+}

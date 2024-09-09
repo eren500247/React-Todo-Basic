@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: cornflowerblue;
+    height: 50px;
+    font-size: 2em;
+    box-shadow: 2px 2px 4px #000
+}
